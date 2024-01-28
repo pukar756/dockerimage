@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1706446797,,"wq"
+|2,0,1706457520,,"wq"
 :WQ
 |2,0,1706446790,,"WQ"
 
@@ -27,20 +27,20 @@
 # Registers:
 
 # File marks:
-'0  4  40  ~/images/nano/Dockerfile
-|4,48,4,40,1706446797,"~/images/nano/Dockerfile"
-'1  4  39  ~/images/nano/Dockerfile
-|4,49,4,39,1706446583,"~/images/nano/Dockerfile"
-'2  1  16  ~/images/nano/Dockerfile
-|4,50,1,16,1706446360,"~/images/nano/Dockerfile"
+'0  2  19  ~/EntryCMD/cmd/Dockerfile
+|4,48,2,19,1706457520,"~/EntryCMD/cmd/Dockerfile"
+'1  4  40  ~/images/nano/Dockerfile
+|4,49,4,40,1706446797,"~/images/nano/Dockerfile"
+'2  4  39  ~/images/nano/Dockerfile
+|4,50,4,39,1706446583,"~/images/nano/Dockerfile"
 '3  1  16  ~/images/nano/Dockerfile
 |4,51,1,16,1706446360,"~/images/nano/Dockerfile"
 '4  1  16  ~/images/nano/Dockerfile
 |4,52,1,16,1706446360,"~/images/nano/Dockerfile"
 '5  1  16  ~/images/nano/Dockerfile
 |4,53,1,16,1706446360,"~/images/nano/Dockerfile"
-'6  1  18  ~/images/nano/Dockerfile
-|4,54,1,18,1706446331,"~/images/nano/Dockerfile"
+'6  1  16  ~/images/nano/Dockerfile
+|4,54,1,16,1706446360,"~/images/nano/Dockerfile"
 '7  1  18  ~/images/nano/Dockerfile
 |4,55,1,18,1706446331,"~/images/nano/Dockerfile"
 '8  1  18  ~/images/nano/Dockerfile
@@ -49,8 +49,16 @@
 |4,57,1,18,1706446331,"~/images/nano/Dockerfile"
 
 # Jumplist (newest first):
+-'  2  19  ~/EntryCMD/cmd/Dockerfile
+|4,39,2,19,1706457520,"~/EntryCMD/cmd/Dockerfile"
+-'  1  0  ~/EntryCMD/cmd/Dockerfile
+|4,39,1,0,1706457491,"~/EntryCMD/cmd/Dockerfile"
 -'  4  40  ~/images/nano/Dockerfile
 |4,39,4,40,1706446797,"~/images/nano/Dockerfile"
+-'  4  40  ~/images/nano/Dockerfile
+|4,39,4,40,1706446797,"~/images/nano/Dockerfile"
+-'  4  39  ~/images/nano/Dockerfile
+|4,39,4,39,1706446583,"~/images/nano/Dockerfile"
 -'  4  39  ~/images/nano/Dockerfile
 |4,39,4,39,1706446583,"~/images/nano/Dockerfile"
 -'  1  16  ~/images/nano/Dockerfile
@@ -58,11 +66,29 @@
 -'  1  16  ~/images/nano/Dockerfile
 |4,39,1,16,1706446546,"~/images/nano/Dockerfile"
 -'  1  16  ~/images/nano/Dockerfile
+|4,39,1,16,1706446546,"~/images/nano/Dockerfile"
+-'  1  16  ~/images/nano/Dockerfile
+|4,39,1,16,1706446546,"~/images/nano/Dockerfile"
+-'  1  16  ~/images/nano/Dockerfile
 |4,39,1,16,1706446360,"~/images/nano/Dockerfile"
+-'  1  16  ~/images/nano/Dockerfile
+|4,39,1,16,1706446360,"~/images/nano/Dockerfile"
+-'  1  18  ~/images/nano/Dockerfile
+|4,39,1,18,1706446331,"~/images/nano/Dockerfile"
 -'  1  18  ~/images/nano/Dockerfile
 |4,39,1,18,1706446331,"~/images/nano/Dockerfile"
 -'  1  17  ~/images/nano/Dockerfile
 |4,39,1,17,1706446148,"~/images/nano/Dockerfile"
+-'  1  17  ~/images/nano/Dockerfile
+|4,39,1,17,1706446148,"~/images/nano/Dockerfile"
+-'  2  6  ~/images/nano/Dockerfile
+|4,39,2,6,1706446115,"~/images/nano/Dockerfile"
+-'  2  6  ~/images/nano/Dockerfile
+|4,39,2,6,1706446115,"~/images/nano/Dockerfile"
+-'  2  6  ~/images/nano/Dockerfile
+|4,39,2,6,1706446115,"~/images/nano/Dockerfile"
+-'  2  6  ~/images/nano/Dockerfile
+|4,39,2,6,1706446115,"~/images/nano/Dockerfile"
 -'  2  6  ~/images/nano/Dockerfile
 |4,39,2,6,1706446115,"~/images/nano/Dockerfile"
 -'  2  6  ~/images/nano/Dockerfile
@@ -74,7 +100,13 @@
 -'  1  17  ~/images/nano/Dockerfile
 |4,39,1,17,1706446061,"~/images/nano/Dockerfile"
 -'  1  17  ~/images/nano/Dockerfile
+|4,39,1,17,1706446061,"~/images/nano/Dockerfile"
+-'  1  17  ~/images/nano/Dockerfile
 |4,39,1,17,1706446040,"~/images/nano/Dockerfile"
+-'  1  17  ~/images/nano/Dockerfile
+|4,39,1,17,1706446040,"~/images/nano/Dockerfile"
+-'  1  17  ~/images/nano/Dockerfile
+|4,39,1,17,1706446032,"~/images/nano/Dockerfile"
 -'  1  17  ~/images/nano/Dockerfile
 |4,39,1,17,1706446032,"~/images/nano/Dockerfile"
 -'  3  23  ~/images/nano/Dockerfile
@@ -93,6 +125,34 @@
 |4,39,3,23,1706446020,"~/images/nano/Dockerfile"
 -'  3  23  ~/images/nano/Dockerfile
 |4,39,3,23,1706446020,"~/images/nano/Dockerfile"
+-'  3  23  ~/images/nano/Dockerfile
+|4,39,3,23,1706446020,"~/images/nano/Dockerfile"
+-'  3  23  ~/images/nano/Dockerfile
+|4,39,3,23,1706446020,"~/images/nano/Dockerfile"
+-'  3  23  ~/images/nano/Dockerfile
+|4,39,3,23,1706446020,"~/images/nano/Dockerfile"
+-'  2  23  ~/images/nano/Dockerfile
+|4,39,2,23,1706446020,"~/images/nano/Dockerfile"
+-'  2  23  ~/images/nano/Dockerfile
+|4,39,2,23,1706446020,"~/images/nano/Dockerfile"
+-'  3  23  ~/images/nano/Dockerfile
+|4,39,3,23,1706446020,"~/images/nano/Dockerfile"
+-'  3  23  ~/images/nano/Dockerfile
+|4,39,3,23,1706446020,"~/images/nano/Dockerfile"
+-'  3  23  ~/images/nano/Dockerfile
+|4,39,3,23,1706446020,"~/images/nano/Dockerfile"
+-'  4  23  ~/images/nano/Dockerfile
+|4,39,4,23,1706445994,"~/images/nano/Dockerfile"
+-'  3  23  ~/images/nano/Dockerfile
+|4,39,3,23,1706445994,"~/images/nano/Dockerfile"
+-'  3  23  ~/images/nano/Dockerfile
+|4,39,3,23,1706445994,"~/images/nano/Dockerfile"
+-'  4  23  ~/images/nano/Dockerfile
+|4,39,4,23,1706445994,"~/images/nano/Dockerfile"
+-'  4  23  ~/images/nano/Dockerfile
+|4,39,4,23,1706445994,"~/images/nano/Dockerfile"
+-'  4  23  ~/images/nano/Dockerfile
+|4,39,4,23,1706445994,"~/images/nano/Dockerfile"
 -'  4  23  ~/images/nano/Dockerfile
 |4,39,4,23,1706445994,"~/images/nano/Dockerfile"
 -'  3  23  ~/images/nano/Dockerfile
@@ -111,8 +171,18 @@
 |4,39,2,8,1706445883,"~/images/nano/Dockerfile"
 -'  3  8  ~/images/nano/Dockerfile
 |4,39,3,8,1706445883,"~/images/nano/Dockerfile"
+-'  2  8  ~/images/nano/Dockerfile
+|4,39,2,8,1706445883,"~/images/nano/Dockerfile"
+-'  2  8  ~/images/nano/Dockerfile
+|4,39,2,8,1706445883,"~/images/nano/Dockerfile"
+-'  3  8  ~/images/nano/Dockerfile
+|4,39,3,8,1706445883,"~/images/nano/Dockerfile"
 -'  3  8  ~/images/nano/Dockerfile
 |4,39,3,8,1706445834,"~/images/nano/Dockerfile"
+-'  3  8  ~/images/nano/Dockerfile
+|4,39,3,8,1706445834,"~/images/nano/Dockerfile"
+-'  3  9  ~/images/nano/Dockerfile
+|4,39,3,9,1706445768,"~/images/nano/Dockerfile"
 -'  3  9  ~/images/nano/Dockerfile
 |4,39,3,9,1706445768,"~/images/nano/Dockerfile"
 -'  10  0  ~/images/nano/Dockerfile
@@ -179,20 +249,15 @@
 |4,39,13,0,1706445750,"~/images/nano/Dockerfile"
 -'  12  0  ~/images/nano/Dockerfile
 |4,39,12,0,1706445750,"~/images/nano/Dockerfile"
--'  12  0  ~/images/nano/Dockerfile
-|4,39,12,0,1706445750,"~/images/nano/Dockerfile"
--'  12  0  ~/images/nano/Dockerfile
-|4,39,12,0,1706445694,"~/images/nano/Dockerfile"
--'  1  0  ~/images/nano/Dockerfile
-|4,39,1,0,1706445148,"~/images/nano/Dockerfile"
--'  1  0  ~/images/nano/Dockerfile
-|4,39,1,0,1706445148,"~/images/nano/Dockerfile"
--'  1  0  ~/images/nano/Dockerfile
-|4,39,1,0,1706445148,"~/images/nano/Dockerfile"
--'  1  0  ~/images/nano/Dockerfile
-|4,39,1,0,1706445148,"~/images/nano/Dockerfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/EntryCMD/cmd/Dockerfile
+	*	1706457517	0
+	"	2	19
+	^	2	20
+	.	2	19
+	+	2	19
 
 > ~/images/nano/Dockerfile
 	*	1706446790	0
